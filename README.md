@@ -1,4 +1,4 @@
-![GitHub Logo](Schematic_OpenSprinkler_2021-07-24.pdf)
+![GitHub Logo](https://github.com/clumsyCoder00/OpenSprinkler-Minimum-Hardware/blob/main/Schematic_OpenSprinkler_2021-07-24.png)
 Format: ![Alt Text](url)
 
 
